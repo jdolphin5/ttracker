@@ -1,3 +1,10 @@
+/*
+ * GitHub:          jdolphin5
+ * Task Tracker App
+ * Java version:    17.0.8
+ * JavaFX Version:  17.0.8
+ */
+
 package com.tasktracker;
 
 import javafx.application.Application;
